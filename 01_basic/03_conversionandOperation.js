@@ -25,3 +25,23 @@ let someNumber = 33
 let stringSomeNumber = String(someNumber)
 console.log(stringSomeNumber);
 console.log(typeof stringSomeNumber);
+
+
+// ***********************Operation**************************
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+let str1 = "hello"
+let str2 = "Girdhar"
+
+let str3 = str1 + str2
+console.log(str3);
+
+let num1, num2, num3
+
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
